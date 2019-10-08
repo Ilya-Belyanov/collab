@@ -1,0 +1,2 @@
+if work:
+	print('A shachem?')
