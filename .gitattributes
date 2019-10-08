@@ -1,2 +1,1 @@
-gzip -cd *.als> *.xml
-ren *.xml *.als
+*.als filter=zcat
