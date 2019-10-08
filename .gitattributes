@@ -1,1 +1,2 @@
-*.als filter=gzip
+gzip -cd *.als> *.xml
+ren *.xml *.als
